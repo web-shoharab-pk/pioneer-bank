@@ -8,3 +8,18 @@ body{
 #transiction-area{
     display: none;
 }
+.br-radius{
+    border-radius: 10px;
+    margin: 10px 25px;
+    padding: 20px;
+    color: white;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
